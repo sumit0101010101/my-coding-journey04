@@ -1,2 +1,16 @@
-# my-coding-journey04
-My programming journey from beginner to advanced. This repository contains my practice codes, learning notes, and projects in Python, C++, HTML, CSS, and eventually AI/ML.Recommended settings:
+# My First GitHub Repository
+
+Hello! I'm Sumit.
+
+I'm a beginner programmer learning
+Python, C++, HTML and CSS.
+
+## My Goals
+- Learn programming
+- Build real-world projects
+- Improve my coding skills
+- Explore AI and Machine Learning
+
+## About Me
+This is my first repository.
+More projects coming soon!
